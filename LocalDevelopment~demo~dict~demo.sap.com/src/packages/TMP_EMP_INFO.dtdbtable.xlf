@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xliff version="1.1">
+<file original="self" source-language="en" product-name="@@2c03a6beb93343951e1be2aea30e451bDtDbTable:TMP_EMP_INFO[]" datatype="s2x">
+<header>
+<skl>
+</skl>
+<phase-group>
+</phase-group>
+<s2x xmlns="http://www.sap.com">
+<dtr>
+<sc></sc>
+</dtr>
+<giltDirectives>
+<develContact>user</develContact><domain></domain>
+<originalLocale xml:lang="en"/>
+<maxLength>255</maxLength>
+</giltDirectives>
+<state phase-name="" process-name="">started</state>
+</s2x>
+</header>
+<body>
+<group restype="description">
+<trans-unit id="2d62ab8430554da809cfb7ef8e9644ee" resname="@description" maxwidth="255" translate="yes"><source>TMP_EMP_INFO</source><s2x xmlns="http://www.sap.com"><textState>new</textState><recommendedLength chars="-1"/></s2x></trans-unit>
+</group>
+</body>
+</file>
+</xliff>
